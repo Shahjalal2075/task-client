@@ -1,4 +1,5 @@
-import { useQuery } from "@tanstack/react-query";
+
+import { useQuery } from "react-query";
 import useAxiospublic from "./useAxios/useAxiospublic";
 // import useAuth from "./useAuth";
 
