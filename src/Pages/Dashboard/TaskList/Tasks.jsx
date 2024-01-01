@@ -4,7 +4,9 @@ const Tasks = () => {
     
 
     return (
-        <div className=""></div>
+        <div className="">
+            <h2>Task</h2>
+        </div>
     );
 };
 
